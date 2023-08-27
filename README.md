@@ -2,7 +2,7 @@
 A deep learning model was trained on fetal ultrasound images, achieving promising classification results across four anatomical structures. The model was optimized and tested on a separate dataset. The code organized and saved classified images, establishing a robust pipeline for accurate fetal anatomical structure classification.
 
 By Satyanarayana Merla
-#  patient data privacy and responsible AI use, should always be prioritized in medical image analysis.
+# Due to data privacy, the dataset and data labels are not provided.
 ## Data Preparation
 - The dataset used for this task is loaded from 'E:/task1/image_label.csv'.
 - Images were pre-processed, including resizing to 256x256 pixels and normalization.
